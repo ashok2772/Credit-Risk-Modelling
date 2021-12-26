@@ -14,7 +14,7 @@ For PD, I have used logistic regression
 For LGD, There is two stage approach. 1) Logistic Regression and 2) Linear Regression
 For EAD, I have trained linear regression
 
-EL =  PD x LGD x EAD
+EL (Expected Loss) =  PD x LGD x EAD
 ## Libraries Used
 
  -Pandas
